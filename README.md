@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asrdo (Abdulkader S.)
-- 🎓 I'm a Computer Science student specialising in Graphics and Multimedia
-- 🖥 I’m currently learning programming in C++
+- 👋 Hi, I’m @asrdo (**Abdulkader Sardini**), also known as **Kader**
+- 🎓 I'm a **Computer Science** student specialising in **Graphics and Multimedia**
+- 🖥 I’m currently learning programming in **C++**
 - 📫 Reach me through:
 
     LinkedIn: https://www.linkedin.com/in/asrdo/
