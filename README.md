@@ -3,11 +3,11 @@
 - 🖥 I’m currently learning programming in **C++**
 - 📫 **Reach me** through:
 
-    LinkedIn: https://www.linkedin.com/in/asrdo/
-    
     Instagram: https://www.instagram.com/asrdo
     
     Telegram: https://t.me/asrrdo
+    
+    LinkedIn: https://www.linkedin.com/in/asrdo/
 
 <!---
 asrdo/asrdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
