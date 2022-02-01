@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asrdo (**Abdulkader Sardini**), also known as *"**Kader**"*
+- 👋 Hi, I’m @asrdo (**Abdulkader**), also known as *"**Kader**"*
 - 🎓 I'm a **Computer Science** student specialising in **Graphics and Multimedia**
 - 🖥 I’m currently learning programming in **C++**
 - 📫 **Reach me** through:
