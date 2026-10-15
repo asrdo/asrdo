@@ -1,2 +1,2 @@
-- 👋  Hi, I’m @asrdo (**Abdulkader**), also known as *"**Kader**"*
+- 👋  Hi, I’m @asrdo (**Abdulkader**), also go by *"**Kader**"*
 - 🖥  I'm a **junior Web Developer** who builds thought-out and detail-oriented websites.
